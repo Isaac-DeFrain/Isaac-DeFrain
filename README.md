@@ -2,18 +2,21 @@
 
 I'm Isaac (he/him). Welcome to my GitHub!
 
+Why not check out my [website](https://quantifiertech.com)?
+
 # Work-related Interests
 
-I have many work-related interests, including, but not limited to:
+I have many work-related interests, including, but not limited to (in no particular order):
 
 - distributed systems
 - byzantine fault tolerance
+- web3 and smart contracts
 - concurrency and process calculi
 - compilers, interpreters, and DSLs
 - protocol design and implementation
 - proof-of-stake consensus algorithms
 - dependent types and theorem provers
-- functional programming (especially OCaml and Scala)
+- functional programming (especially OCaml, Haskell, Scala, and Rust)
 - formal specification/verification, model checking, and trace checking
 
 My formal training is in pure mathematics (complex analysis, differential geometry), but I thoroughly enjoy software engineering too :)
@@ -24,7 +27,6 @@ Outside of work you will find me rock climbing, hiking, road biking, watching a 
 
 - mathematics
 - quantum mechanics
-- data privacy policy
 - surveillance capitalism
 - nuclear nonproliferation
 - fitness, nutrition, and health
