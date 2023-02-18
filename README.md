@@ -1,15 +1,19 @@
-# Hello 👋
+# Welcome to my GitHub 🐙😸
 
 I'm Isaac DeFrain (he/him)
 
-Welcome to my GitHub 🐙😸
+Check out my websites
 
-Why not check out my [website](https://quantifiertech.com)?
+- [company](https://quantifiertech.com)
+- [personal](https://isaacdefrain.com)
+
+I love organizing information!
 
 # Work-related Interests
 
 There are many, including, but not limited to:
 
+- blockchain
 - network security
 - distributed systems
 - on-chain governance
@@ -27,10 +31,10 @@ My formal training is in pure mathematics ([paper](https://link.springer.com/cha
 
 I am a full-time software developer working broadly in the blockchain space since 2018
 
-- [RChain](https://github.com/rchain/rchain)
-- [Tezos](https://gitlab.com/tezos/tezos)
-- [Cosmos](https://github.com/cosmos/cosmos-sdk)
-- [Mina](https://github.com/MinaProtocol/mina)
+- [RChain](https://github.com/rchain/rchain) (2018 - 2022)
+- [Tezos](https://gitlab.com/tezos/tezos) (2020 - 2022)
+- [Cosmos](https://github.com/cosmos/cosmos-sdk) (2022)
+- [Mina](https://github.com/MinaProtocol/mina) (2022 - present)
 
 # Non-work-related Interests
 
