@@ -36,6 +36,8 @@ I am a full-time software developer working broadly in the blockchain space sinc
 - [Cosmos](https://github.com/cosmos/cosmos-sdk) (2022)
 - [Mina](https://github.com/MinaProtocol/mina) (2022 - present)
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-DeFrain)](https://github.com/anuraghazra/github-readme-stats)
+
 # Non-work-related Interests
 
 Outside of work you will find me
