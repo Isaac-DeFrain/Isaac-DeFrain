@@ -1,6 +1,6 @@
 # Welcome to my GitHub 🐙😸
 
-I'm Isaac DeFrain (he/him)
+I'm Isaac DeFrain (he/him) - senior software developer
 
 Check out my [blog](https://isaac-defrain.github.io/blog) if you're into that sort of thing
 
