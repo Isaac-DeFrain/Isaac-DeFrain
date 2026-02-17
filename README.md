@@ -2,15 +2,18 @@
 
 I'm Isaac DeFrain (he/him)
 
-I embody the values of _radical ownership of outcomes_ and _incremental improvement_
+Check out my [blog](https://isaac-defrain.github.io/blog) if you're into that sort of thing
 
 Check out my [public repos](https://github.com/Isaac-DeFrain?tab=repositories) for a sense of what I do
+
+I embody the values of _radical ownership_ and _incremental improvement_
 
 # Work-related Interests
 
 There are many, including, but not limited to:
 
 - blockchain
+- zero-knowledge
 - network security
 - distributed systems
 - on-chain governance
@@ -28,7 +31,8 @@ My formal training is in pure mathematics ([paper](https://link.springer.com/cha
 
 I am a senior software developer working broadly in the blockchain/zero-knowledge space since 2018
 
-- [Mina](https://github.com/MinaProtocol/mina) (2022 - present)
+- [LayerZero](https://github.com/orgs/LayerZero-Labs/repositories) (2025)
+- [Mina](https://github.com/MinaProtocol/mina) (2022 - 2025)
 - [Cosmos](https://github.com/cosmos/cosmos-sdk) (2022)
 - [Tezos](https://gitlab.com/tezos/tezos) (2020 - 2022)
 - [RChain](https://github.com/rchain/rchain) (2018 - 2022)
@@ -37,7 +41,7 @@ I am a senior software developer working broadly in the blockchain/zero-knowledg
 
 # Non-work-related Interests
 
-Outside of work you will find me
+Outside of work you will find me:
 
 - hiking
 - rock climbing
@@ -46,7 +50,7 @@ Outside of work you will find me
 - coding for fun
 - learning (I am always learning!)
 
-I am endlessly fascinated by the following topics:
+I am endlessly fascinated by:
 
 - governance
 - mathematics
