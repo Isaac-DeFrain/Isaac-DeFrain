@@ -37,8 +37,6 @@ I am a senior software developer working broadly in the blockchain/zero-knowledg
 - [Tezos](https://gitlab.com/tezos/tezos) (2020 - 2022)
 - [RChain](https://github.com/rchain/rchain) (2018 - 2022)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-DeFrain)](https://github.com/anuraghazra/github-readme-stats)
-
 # Non-work-related Interests
 
 Outside of work you will find me:
